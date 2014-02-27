@@ -1,3 +1,37 @@
+/*Typography*/
+h1 {
+	color: black;
+	font-family: 'Raleway';
+}
+
+h2 {
+	color: #f0f;
+	font-family: 'Raleway';
+}
+
+h3 {
+	color: orange;	
+	font-family: 'Raleway';
+}
+
+a {
+	border-bottom: 4px dotted red;
+	text-decoration: none;
+}
+
+
+/* Color Palete */
+
+.color-1 {
+	background: orange;
+}
+
+.color-2 {
+	background: #f0f;
+}
+
+
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
